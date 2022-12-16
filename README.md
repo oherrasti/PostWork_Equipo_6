@@ -2,9 +2,9 @@
 Post_Works_Equipo_6
 # Equipo 6
 ## Integrantes:
-### Omar
+### Omar Arellano Carballo
 ### Emmanuel Acevedo Díaz
 ### José B
 ### Israel uriel
-### Haniel Rojo
-### Oscar Herrasti
+### Haniel Mizraim Rojo Salazar
+### Oscar Herrasti Real
