@@ -5,6 +5,6 @@ Post_Works_Equipo_6
 ### Omar Arellano Carballo
 ### Emmanuel Acevedo Díaz
 ### José B
-### Israel uriel
+### Israel Uriel
 ### Haniel Mizraim Rojo Salazar
 ### Oscar Herrasti Real
