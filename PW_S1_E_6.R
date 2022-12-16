@@ -1,12 +1,12 @@
 # Postwork Sesión 1.
 # EQUIPO 6
 # INTEGRANTES
-# Omar
+# Omar Arellano Carballo
 # Emmanuel Acevedo Díaz
 # José B
 # Israel uriel
-# Haniel Rojo
-# Oscar Herrasti
+# Haniel Mizraim Rojo Salazar
+# Oscar Herrasti Real
 
 #### Desarrollo
 
