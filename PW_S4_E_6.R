@@ -3,8 +3,8 @@
 # INTEGRANTES
 # Omar Arellano Carballo
 # Emmanuel Acevedo Díaz
-# José B
-# Israel uriel
+# José Bernal Fonseca
+# Israel Uriel Ramírez montoya
 # Haniel Mizraim Rojo Salazar
 # Oscar Herrasti Real#Desarrollo
 
