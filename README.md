@@ -4,7 +4,7 @@ Post_Works_Equipo_6
 ## Integrantes:
 ### Omar Arellano Carballo
 ### Emmanuel Acevedo Díaz
-### José B
-### Israel Uriel
+### José Bernal Fonseca
+### Israel Uriel Ramírez montoya
 ### Haniel Mizraim Rojo Salazar
 ### Oscar Herrasti Real
