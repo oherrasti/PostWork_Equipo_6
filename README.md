@@ -670,5 +670,6 @@ dev.off()
 
 ```
 
+![PHOTO-2022-12-18-00-12-46](https://user-images.githubusercontent.com/120055712/208285850-783e5e3d-db1e-4a03-9900-3fc54b5789a3.jpg)
 
 
