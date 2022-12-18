@@ -60,7 +60,7 @@ library(zoo)
 ```
 ### Carga de Informacion
 ```R
-f <- read.csv("https://raw.githubusercontent.com/beduExpert/Programacion-R-Santander-2022/main/Sesion-08/Postwork/inseguridad_alimentaria_bedu.csv")
+df_2 <- df <- read.csv("https://raw.githubusercontent.com/beduExpert/Programacion-R-Santander-2022/main/Sesion-08/Postwork/inseguridad_alimentaria_bedu.csv")
 
 head(df,10) # Analizar los primeros 10 observaciones del conjunto de datos
 str(df) # Analizar el tipo de datos de las variables del conjunto de datos```
@@ -72,8 +72,8 @@ str(df) # Analizar el tipo de datos de las variables del conjunto de datos```
 #####  Aplicación de factores
 
 ```R
-df$nse5f <- factor(df$nse5f, labels = c("Bajo", "Medio Bajo", "Medio", "Medio Alto", "Alto")) <br>
-df$area <- factor(df$area, labels = c("Zona Urbana", "Zona Rural")) <
+df$nse5f <- factor(df$nse5f, labels = c("Bajo", "Medio Bajo", "Medio", "Medio Alto", "Alto")) 
+df$area <- factor(df$area, labels = c("Zona Urbana", "Zona Rural")) 
 df$refin <- factor(df$refin, labels = c("No", "Si"))
 df$sexojef <- factor(df$sexojef, labels = c("Hombre", "Mujer"))
 df$IA <- factor(df$IA, labels = c("No Presenta IA", "Presenta IA"))
