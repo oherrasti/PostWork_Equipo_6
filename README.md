@@ -2,6 +2,14 @@
 
 # Proyecto Integrador - Equipo 6
 
+## INTEGRANTES
+### Omar Arellano Carballo
+### Emmanuel Acevedo Díaz
+### José Bernal Fonseca
+### Israel Uriel Ramírez montoya
+### Haniel Mizraim Rojo Salazar
+### Oscar Herrasti Real
+
 ## Problema
 
 Un centro de salud nutricional está interesado en analizar estadísticamente y probabilísticamente
