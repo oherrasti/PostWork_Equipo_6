@@ -309,7 +309,7 @@ transform(table(df$nse5f, df$IA),
 "
 
 #Gráfica que nos permite visualizar el comportamiento de la distribución de las
-"variables del gasto en los alimentos.
+"variables del gasto en los alimentos."
 {curve(dnorm(x, mean = mean.als, sd = sd.als), from = 0, to = 10, 
        col='blue', main = "Densidad Normal:\nln_als y ln_alns",
        ylab = "f(x)", xlab = "X")
