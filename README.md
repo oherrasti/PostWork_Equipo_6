@@ -56,7 +56,7 @@ La base de datos contiene las siguientes variables:
 library(dplyr)
 library(DescTools)
 library(ggplot2)
-library(zoo)
+
 ```
 ### Carga de Informacion
 ```R
