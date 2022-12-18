@@ -158,7 +158,10 @@ ggplot(df, aes(x = IA, fill = IA)) +
   theme_light()
 "No Presenta IA    Presenta IA 
         10781         30028 "
+     
 ```
+![Sin título-6](https://user-images.githubusercontent.com/120055712/208285684-ef7785a6-204a-4f71-bc74-b3116d4b32f5.jpg)
+
 ####  Medidas de tendencia central sobre las variables Alimentos Saludables y No Saludables
 ```R
 (mean.als <- mean(df$ln_als)) #6.066521
@@ -192,8 +195,12 @@ boxplot(ln_alns ~ nse5f,data = df)
 #de que por su elevada variabilidad la correlación podría ser baja.
 ```
 
+![Sin título-7](https://user-images.githubusercontent.com/120055712/208285707-76b32212-08a0-46e9-b764-183d33339476.jpg)
 
 ### 3. Calcula probabilidades que nos permitan entender el problema en México
+
+
+![pairs](https://user-images.githubusercontent.com/120055712/208285730-881290e9-4dab-4a18-8997-1fb52caf7942.jpg)
 
 ```R
 #Función que nos permite generar un correlograma asociando las variables: 
@@ -307,6 +314,7 @@ transform(table(df$nse5f, df$IA),
 
 ```
 
+![curvas](https://user-images.githubusercontent.com/120055712/208285748-50944594-bcf3-4e30-a032-a5423511320c.jpg)
 
 ### 4. Planteamiento de hipótesis estadísticos y concluye sobre ellos para entender el problema en México
 
